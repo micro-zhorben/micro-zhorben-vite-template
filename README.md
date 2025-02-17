@@ -1,4 +1,4 @@
-# Welcome to your Landify project
+# Welcome to your project
 
 Changes made via Zhorben will be committed automatically to this repo.
 
